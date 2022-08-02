@@ -10,8 +10,14 @@ You can click the Preview link to take a look at your changes.
 --->
 # Kunguma gokul S
 
-## Love to work on
-< Computer Vision >
-< Deep Learning >
-< Machine Learning >
-< Data Pre-processing >
+## Interested in  
+< Computer Vision >  
+< Deep Learning >  
+< Machine Learning >  
+< Data Pre-processing >  
+  
+### Computer Vision Intern @IIT_Bombay   
+
+### Catch Me At  
+< kungumagokul2001@gmail.com >    
+< https://www.linkedin.com/in/kunguma-gokul-s/ >  
