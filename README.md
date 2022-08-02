@@ -8,7 +8,9 @@
 Gokul14092001/Gokul14092001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Kunguma gokul S
+# Kunguma gokul S  
+### Msc Artificial Intelligence and Machine Learning Student
+### Coimbatore,Tamilnadu,India.
 
 ## Interested in  
 < Computer Vision >  
